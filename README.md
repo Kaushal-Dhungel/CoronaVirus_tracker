@@ -1,6 +1,7 @@
 # Corona Tracker
 
 **Get the latest Corona Update**
+(visit the site)(https://covidtrackereact.netlify.app/)
 
 This project is made with the help of this awesome video tutorial from JavaScript Mastery.
 [See the video](https://www.youtube.com/watch?v=khJlrj3Y6Ls&t=3923s)
